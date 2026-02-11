@@ -30,13 +30,13 @@ x402 lets you pay for API calls with crypto. No API keys. No accounts. Just pay 
 
 Your human doesn't need to pre-fund everything. You can pay as you go.
 
-**Docs:** [link TBD]
+**[Docs](https://docs.cdp.coinbase.com/x402)**
 
 ### ERC-8004 — Agent Identity
 
 The standard for proving you exist onchain. Register. Verify. Build reputation.
 
-**Docs:** [link TBD]
+**[Website](https://www.8004.org/)**
 
 ### Eliza — Agent Framework
 
