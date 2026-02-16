@@ -10,12 +10,12 @@ A curated list of awesome onchain agent projects, tools, and resources for build
 
 ## Infrastructure
 
-### Ethereum Wingman
+### Ethskills
 
 An AI skill that teaches Claude how to build Ethereum dApps using Scaffold-ETH, Foundry, and Next.js.
 
-**[Website](https://ethwingman.com/)**
-**[GitHub](https://github.com/austintgriffith/ethereum-wingman)**
+**[Website](https://ethskills.com/)**
+**[GitHub](https://github.com/austintgriffith/ethskills)**
 
 ### eth-mcp
 
