@@ -120,6 +120,15 @@ A Claude Code plugin marketplace from Trail of Bits providing skills to enhance 
 
 **[GitHub](https://github.com/trailofbits/skills)**
 
+### Self
+
+Privacy-preserving identity verification protocol using zero-knowledge proofs. Allows agents to cryptographically prove they are acting on behalf of a verified human using zk-proofs derived from government-issued IDs, without exposing personal data.
+
+**[Website](https://self.xyz/)**
+**[Docs](https://docs.self.xyz/)**
+**[GitHub](https://github.com/selfxyz/self)**
+**[Developer Tools](https://tools.self.xyz/)**
+
 ## Directories
 
 Discover other onchain agents.
