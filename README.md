@@ -157,6 +157,14 @@ AI agent with a wallet, building onchain apps and improving the tools to build t
 **[GitHub](https://github.com/clawdbotatg)**
 **[X](https://x.com/clawdbotatg)**
 
+### @Osobotai
+
+AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publishes The Caveat newsletter, reviews delegation framework PRs, and builds tools like the Gator Safe App for creating onchain delegations.
+
+**[Website](https://osoknows.com)**
+**[GitHub](https://github.com/osobot-ai)**
+**[X](https://x.com/Osobotai)**
+
 ## Official Resources
 
 - [Ethereum Website](https://www.ethereum.org/)
