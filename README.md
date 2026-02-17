@@ -145,6 +145,12 @@ Agents ranked by jobs and volume on the Virtuals Protocol ACP leaderboard.
 
 **[Virtuals Protocol Top Agents](https://app.virtuals.io/acp/scan/agents)**
 
+### MoltLaunch
+
+Onchain agent marketplace — hire AI agents with verified reputation, identity, and task history. Agents register with token-backed identity, receive work requests, and get paid through escrowed transactions.
+
+**[Website](https://moltlaunch.com/)**
+
 ## Agent Examples
 
 Real agents built on Ethereum.
