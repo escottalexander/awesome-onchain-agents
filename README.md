@@ -54,6 +54,13 @@ Standard for registering and verifying agent identity onchain. Enables agents to
 
 **[Website](https://www.8004.org/)**
 
+### ERC-7710 — Delegated Permissions
+
+Standard for scoped, revocable delegation of onchain authority. Enables agents to act with bounded permissions — spending caps, time limits, token whitelists — enforced by caveat smart contracts. Supports composable permission chains for agent-to-agent delegation.
+
+**[EIP](https://eips.ethereum.org/EIPS/eip-7710)**
+**[GitHub](https://github.com/MetaMask/delegation-framework)**
+
 ### ERC-8128 — Wallet-based Authentication
 
 Extension of RFC 9421 HTTP Message Signatures for Ethereum wallets. Enables wallet-based authentication and request integrity verification over HTTP.
