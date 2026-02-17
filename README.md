@@ -71,6 +71,15 @@ Extension of RFC 9421 HTTP Message Signatures for Ethereum wallets. Enables wall
 **[npm](https://www.npmjs.com/package/@slicekit/erc8128)**
 **[llms.txt](https://erc8128.slice.so/llms.txt)**
 
+### SIWA — Sign In With Agent
+
+Authentication protocol built on ERC-8004 and ERC-8128 that provides trustless identity and authentication for AI agents.
+
+**[Website](https://siwa.id)**
+**[Docs](https://siwa.id/docs)**
+**[GitHub](https://github.com/builders-garden/siwa)**
+**[npm](https://www.npmjs.com/package/@buildersgarden/siwa)**
+
 ## MCP Servers
 
 Connect your agent to Ethereum blockchain data.
