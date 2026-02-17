@@ -145,6 +145,14 @@ Privacy-preserving identity verification protocol using zero-knowledge proofs. A
 **[GitHub](https://github.com/selfxyz/self)**
 **[Developer Tools](https://tools.self.xyz/)**
 
+
+### Faremeter
+
+A collection of open-source libraries, tools, and applications designed to allow agents and other utilities to transparently make web3 payments using web2 infrastructure. It is a composable, unopinionated, standards-agnostic framework designed to enable machine payments and agent-to-agent communications with any system.
+
+
+**[Docs](https://docs.faremeter.xyz/)**
+
 ## Directories
 
 Discover other onchain agents.
