@@ -59,6 +59,7 @@ Standard for registering and verifying agent identity onchain. Enables agents to
 Extension of RFC 9421 HTTP Message Signatures for Ethereum wallets. Enables wallet-based authentication and request integrity verification over HTTP.
 
 **[Website](https://erc8128.org)**
+**[Docs](https://erc8128.slice.so)**
 **[GitHub](https://github.com/slice-so/erc8128)**
 **[npm](https://www.npmjs.com/package/@slicekit/erc8128)**
 **[llms.txt](https://erc8128.slice.so/llms.txt)**
