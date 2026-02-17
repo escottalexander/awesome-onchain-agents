@@ -121,6 +121,14 @@ A Claude Code plugin marketplace from Trail of Bits providing skills to enhance 
 
 **[GitHub](https://github.com/trailofbits/skills)**
 
+### Ampersend
+
+Management platform and SDK for agent payments. Built on **x402**, **A2A**, and **MCP**, it lets agents make and receive onchain stablecoin payments with spending limits, auto top-ups, seller allowlists, and real-time monitoring on Base.
+
+**[Website](https://ampersend.ai)**
+**[Docs](https://docs.ampersend.io)**
+**[GitHub](https://github.com/edgeandnode/ampersend)**
+
 ### Self
 
 Privacy-preserving identity verification protocol using zero-knowledge proofs. Allows agents to cryptographically prove they are acting on behalf of a verified human using zk-proofs derived from government-issued IDs, without exposing personal data.
