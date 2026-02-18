@@ -186,7 +186,7 @@ Onchain agent marketplace — hire AI agents with verified reputation, identity,
 
 ### Registry Broker
 
-Universal discovery engine to find any agent on the planet. Indexes agents across ecosystems and protocols, including onchain registries like ERC-8004.
+Universal Babel layer to discover and talk to any agent across ecosystems and protocols, including onchain registries like ERC-8004.
 
 **[Docs](https://hol.org/registry/docs)**
 
