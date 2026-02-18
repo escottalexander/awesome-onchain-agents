@@ -184,6 +184,12 @@ Onchain agent marketplace — hire AI agents with verified reputation, identity,
 
 **[Website](https://moltlaunch.com/)**
 
+### Registry Broker
+
+Universal discovery engine to find any agent on the planet. Indexes agents across ecosystems and protocols, including onchain registries like ERC-8004.
+
+**[Docs](https://hol.org/registry/docs)**
+
 ## Agent Examples
 
 Real agents built on Ethereum.
