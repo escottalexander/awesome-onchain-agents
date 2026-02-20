@@ -162,6 +162,14 @@ A collection of open-source libraries, tools, and applications designed to allow
 
 **[Docs](https://docs.faremeter.xyz/)**
 
+### Bankr
+
+Agent wallet infrastructure and token launch platform on Base. Provides AI agents with a programmable EVM wallet, social-media-native payments via @bankrbot on X, and a Partner Deploy API for programmatically launching tokens on behalf of users. Partners earn a share of ongoing trading fees from tokens they deploy.
+
+**[Website](https://bankr.bot)**
+**[Docs](https://docs.bankr.bot)**
+**[X](https://x.com/bankrbot)**
+
 ## Directories
 
 Discover other onchain agents.
