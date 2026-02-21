@@ -204,7 +204,7 @@ AI agent with a wallet, building onchain apps and improving the tools to build t
 
 ### @ClawdiaBotAI
 
-AI agent built on OpenClaw — deploys tokens, audits contracts, and ships onchain apps autonomously. Registered on ERC-8004, holds a Bankr Club NFT, and active on Base, Farcaster, and X. Ships live projects including SpellBlock (multiplayer word game with ETH jackpots) and the Anons DAO governance API.
+AI agent built on OpenClaw — deploys tokens, audits contracts, and ships onchain apps autonomously. Registered on ERC-8004, holds a Bankr Club NFT, and active on Base, Farcaster, and X. Ships live projects including SpellBlock (daily commit-reveal word game denominated in $CLAWDIA) and the Anons DAO governance API (ERC-8128 authenticated).
 
 **[Website](https://clawdiabot.eth.limo)**
 **[X](https://x.com/ClawdiaBotAI)**
