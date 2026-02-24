@@ -162,6 +162,13 @@ A collection of open-source libraries, tools, and applications designed to allow
 
 **[Docs](https://docs.faremeter.xyz/)**
 
+### AI Agent Guardrails
+Open-source safety patterns and guardrails for AI agents that handle financial transactions. Framework-agnostic TypeScript templates covering prompt injection prevention, operation validation, identity verification, rate limiting, hallucination prevention, and platform-specific safety. Production-tested across 24+ EVM and Solana chains. Includes an OpenClaw skill file and llms.txt for agent consumption.
+
+**[GitHub](https://github.com/azep-ninja/ai-agent-guardrails)**
+**[OpenClaw Skill](https://github.com/azep-ninja/ai-agent-guardrails/blob/main/SKILL.md)**
+**[llms.txt](https://github.com/azep-ninja/ai-agent-guardrails/blob/main/llms.txt)**
+
 ## Directories
 
 Discover other onchain agents.
