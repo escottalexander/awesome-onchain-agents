@@ -38,6 +38,17 @@ Typically used to create tokenized agents that post on social (e.g. X), trade, o
 
 **[Website](https://www.virtuals.io/)**
 
+## Deployment Setup Guides
+
+### Mac Mini
+Zero to one setup on a mini mac [guide](https://x.com/austingriffith/status/2021968127639409137).
+
+### AWS
+Setup on AWS free tier [guide](https://x.com/techfrenAJ/status/2014934471095812547). 
+
+### Coral
+No code one-click deployment on Coral [guide](https://docs.coral.inc/getting-started/quickstart).
+
 ## Standards & Protocols
 
 Standards that define how agents identify themselves and transact onchain.
