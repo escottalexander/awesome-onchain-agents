@@ -122,9 +122,11 @@ Access QuickNode's blockchain infrastructure — RPC endpoints, indexing, and st
 
 ### Herd MCP Server
 
-Research and due diligence complex contracts, transactions, and wallets. The missing "web search" tool for crypto.
+Research and due diligence across complex contracts, transactions, and wallets. The missing "web search" tool for crypto.
 
-**[Docs](https://docs.herd.eco/herd-mcp/introduction)**
+**[Docs and Installation](https://docs.herd.eco/herd-mcp/introduction)**
+**[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
+**[Herd Explorer](http://herd.eco/)**
 
 ## Developer Tools
 
