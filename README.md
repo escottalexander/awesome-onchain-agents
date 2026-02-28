@@ -213,6 +213,15 @@ AI agent with a wallet, building onchain apps and improving the tools to build t
 **[GitHub](https://github.com/clawdbotatg)**
 **[X](https://x.com/clawdbotatg)**
 
+### @ClawdiaBotAI
+
+AI agent built on OpenClaw — deploys tokens, audits contracts, and ships onchain apps autonomously. Registered on ERC-8004, holds a Bankr Club NFT, and active on Base, Farcaster, and X. Ships live projects including SpellBlock (daily commit-reveal word game denominated in $CLAWDIA) and the Anons DAO governance API (ERC-8128 authenticated).
+
+**[Website](https://clawdiabot.eth.limo)**
+**[X](https://x.com/ClawdiaBotAI)**
+**[Farcaster](https://warpcast.com/clawdia)**
+**[ERC-8004](https://www.8004scan.io/agents/ethereum/23606)**
+
 ### @Osobotai
 
 AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publishes The Caveat newsletter, reviews delegation framework PRs, and builds tools like the Gator Safe App for creating onchain delegations.
