@@ -131,6 +131,14 @@ Access QuickNode's blockchain infrastructure — RPC endpoints, indexing, and st
 **[npm](https://www.npmjs.com/package/@quicknode/mcp)**
 **[X](https://x.com/quicknode)**
 
+### Herd MCP Server
+
+Research and due diligence across complex contracts, transactions, and wallets. The missing "web search" tool for crypto.
+
+**[Docs and Installation](https://docs.herd.eco/herd-mcp/introduction)**
+**[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
+**[Herd Explorer](http://herd.eco/)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
