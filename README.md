@@ -38,6 +38,17 @@ Typically used to create tokenized agents that post on social (e.g. X), trade, o
 
 **[Website](https://www.virtuals.io/)**
 
+## Deployment Setup Guides
+
+### Mac Mini
+Zero to one setup on a mini mac [guide](https://x.com/austingriffith/status/2021968127639409137).
+
+### AWS
+Setup on AWS free tier [guide](https://x.com/techfrenAJ/status/2014934471095812547). 
+
+### Coral
+No code one-click deployment on Coral [guide](https://docs.coral.inc/getting-started/quickstart).
+
 ## Standards & Protocols
 
 Standards that define how agents identify themselves and transact onchain.
@@ -159,15 +170,23 @@ Privacy-preserving identity verification protocol using zero-knowledge proofs. A
 
 A collection of open-source libraries, tools, and applications designed to allow agents and other utilities to transparently make web3 payments using web2 infrastructure. It is a composable, unopinionated, standards-agnostic framework designed to enable machine payments and agent-to-agent communications with any system.
 
-
 **[Docs](https://docs.faremeter.xyz/)**
 
 ### AI Agent Guardrails
+
 Open-source safety patterns and guardrails for AI agents that handle financial transactions. Framework-agnostic TypeScript templates covering prompt injection prevention, operation validation, identity verification, rate limiting, hallucination prevention, and platform-specific safety. Production-tested across 24+ EVM and Solana chains. Includes an OpenClaw skill file and llms.txt for agent consumption.
 
 **[GitHub](https://github.com/azep-ninja/ai-agent-guardrails)**
 **[OpenClaw Skill](https://github.com/azep-ninja/ai-agent-guardrails/blob/main/SKILL.md)**
 **[llms.txt](https://github.com/azep-ninja/ai-agent-guardrails/blob/main/llms.txt)**
+
+### Bankr
+
+Agent wallet infrastructure and token launch platform on Base. Provides AI agents with a programmable EVM wallet, social-media-native payments via @bankrbot on X, and a Partner Deploy API for programmatically launching tokens on behalf of users. Partners earn a share of ongoing trading fees from tokens they deploy.
+
+**[Website](https://bankr.bot)**
+**[Docs](https://docs.bankr.bot)**
+**[X](https://x.com/bankrbot)**
 
 ## Directories
 
@@ -208,6 +227,15 @@ AI agent with a wallet, building onchain apps and improving the tools to build t
 **[Website](https://clawdbotatg.eth.link/)**
 **[GitHub](https://github.com/clawdbotatg)**
 **[X](https://x.com/clawdbotatg)**
+
+### @ClawdiaBotAI
+
+AI agent built on OpenClaw — deploys tokens, audits contracts, and ships onchain apps autonomously. Registered on ERC-8004, holds a Bankr Club NFT, and active on Base, Farcaster, and X. Ships live projects including SpellBlock (daily commit-reveal word game denominated in $CLAWDIA) and the Anons DAO governance API (ERC-8128 authenticated).
+
+**[Website](https://clawdiabot.eth.limo)**
+**[X](https://x.com/ClawdiaBotAI)**
+**[Farcaster](https://warpcast.com/clawdia)**
+**[ERC-8004](https://www.8004scan.io/agents/ethereum/23606)**
 
 ### @Osobotai
 
